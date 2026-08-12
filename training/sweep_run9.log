@@ -1,0 +1,161 @@
+=== epoch_005 ===
+fond               3.791     4.007
+offset_e          -0.672    -0.835
+10-30s            98.425    90.218
+30-100s           99.642    92.940
+100-500s          99.657    93.742
+detail             0.775     0.806
+detail score original: 0.653 (upper bound includes its own noise floor)
+=== epoch_010 ===
+fond               3.791     3.137
+offset_e          -0.672    -0.763
+10-30s            98.425    98.063
+30-100s           99.642    96.568
+100-500s          99.657    94.247
+detail             0.775     0.815
+detail score original: 0.653 (upper bound includes its own noise floor)
+=== epoch_015 ===
+fond               3.791     3.178
+offset_e          -0.672    -0.845
+10-30s            98.425   102.653
+30-100s           99.642   100.322
+100-500s          99.657    98.736
+detail             0.775     0.814
+detail score original: 0.653 (upper bound includes its own noise floor)
+=== epoch_020 ===
+fond               3.791     3.058
+offset_e          -0.672    -1.050
+10-30s            98.425   103.543
+30-100s           99.642   100.989
+100-500s          99.657    99.477
+detail             0.775     0.820
+detail score original: 0.653 (upper bound includes its own noise floor)
+=== epoch_025 ===
+fond               3.791     2.747
+offset_e          -0.672    -0.442
+10-30s            98.425   100.060
+30-100s           99.642    97.891
+100-500s          99.657    95.578
+detail             0.775     0.813
+detail score original: 0.653 (upper bound includes its own noise floor)
+=== epoch_030 ===
+fond               3.791     3.133
+offset_e          -0.672    -0.691
+10-30s            98.425   102.047
+30-100s           99.642    99.225
+100-500s          99.657    97.964
+detail             0.775     0.814
+detail score original: 0.653 (upper bound includes its own noise floor)
+=== epoch_035 ===
+fond               3.791     3.138
+offset_e          -0.672    -0.637
+10-30s            98.425    98.876
+30-100s           99.642    94.549
+100-500s          99.657    91.043
+detail             0.775     0.816
+detail score original: 0.653 (upper bound includes its own noise floor)
+=== epoch_040 ===
+fond               3.791     3.230
+offset_e          -0.672    -0.839
+10-30s            98.425   101.685
+30-100s           99.642    98.517
+100-500s          99.657    97.195
+detail             0.775     0.813
+detail score original: 0.653 (upper bound includes its own noise floor)
+=== epoch_045 ===
+fond               3.791     3.179
+offset_e          -0.672    -0.650
+10-30s            98.425   100.965
+30-100s           99.642    97.436
+100-500s          99.657    96.149
+detail             0.775     0.811
+detail score original: 0.653 (upper bound includes its own noise floor)
+=== epoch_050 ===
+fond               3.791     3.192
+offset_e          -0.672    -0.916
+10-30s            98.425    99.399
+30-100s           99.642    96.634
+100-500s          99.657    95.236
+detail             0.775     0.813
+detail score original: 0.653 (upper bound includes its own noise floor)
+=== epoch_055 ===
+fond               3.791     3.140
+offset_e          -0.672    -0.722
+10-30s            98.425   101.590
+30-100s           99.642    98.580
+100-500s          99.657    97.710
+detail             0.775     0.810
+detail score original: 0.653 (upper bound includes its own noise floor)
+=== epoch_060 ===
+fond               3.791     3.130
+offset_e          -0.672    -0.930
+10-30s            98.425   102.303
+30-100s           99.642    99.870
+100-500s          99.657    99.756
+detail             0.775     0.810
+detail score original: 0.653 (upper bound includes its own noise floor)
+=== epoch_065 ===
+fond               3.791     3.125
+offset_e          -0.672    -0.828
+10-30s            98.425   100.878
+30-100s           99.642    98.459
+100-500s          99.657    97.848
+detail             0.775     0.811
+detail score original: 0.653 (upper bound includes its own noise floor)
+=== epoch_070 ===
+fond               3.791     3.197
+offset_e          -0.672    -0.817
+10-30s            98.425   100.318
+30-100s           99.642    97.177
+100-500s          99.657    95.726
+detail             0.775     0.811
+detail score original: 0.653 (upper bound includes its own noise floor)
+=== epoch_075 ===
+fond               3.791     3.272
+offset_e          -0.672    -0.757
+10-30s            98.425   100.038
+30-100s           99.642    97.029
+100-500s          99.657    95.695
+detail             0.775     0.811
+detail score original: 0.653 (upper bound includes its own noise floor)
+=== epoch_080 ===
+fond               3.791     3.263
+offset_e          -0.672    -0.791
+10-30s            98.425   100.692
+30-100s           99.642    97.566
+100-500s          99.657    96.262
+detail             0.775     0.810
+detail score original: 0.653 (upper bound includes its own noise floor)
+=== epoch_085 ===
+fond               3.791     3.180
+offset_e          -0.672    -0.855
+10-30s            98.425   100.880
+30-100s           99.642    97.729
+100-500s          99.657    96.431
+detail             0.775     0.810
+detail score original: 0.653 (upper bound includes its own noise floor)
+=== epoch_090 ===
+fond               3.791     3.229
+offset_e          -0.672    -0.833
+10-30s            98.425   100.669
+30-100s           99.642    97.526
+100-500s          99.657    96.195
+detail             0.775     0.810
+detail score original: 0.653 (upper bound includes its own noise floor)
+=== epoch_095 ===
+fond               3.791     3.222
+offset_e          -0.672    -0.851
+10-30s            98.425   100.851
+30-100s           99.642    97.733
+100-500s          99.657    96.493
+detail             0.775     0.811
+detail score original: 0.653 (upper bound includes its own noise floor)
+=== epoch_100 ===
+fond               3.791     3.224
+offset_e          -0.672    -0.834
+10-30s            98.425   100.811
+30-100s           99.642    97.693
+100-500s          99.657    96.376
+detail             0.775     0.811
+detail score original: 0.653 (upper bound includes its own noise floor)
+SWEEP DONE

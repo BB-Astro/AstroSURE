@@ -1,0 +1,96 @@
+{
+ "brut": [
+  {
+   "group": "NGC 4258/F814W/chip1",
+   "tag": "brut",
+   "n": 0,
+   "n_intshift": 0
+  },
+  {
+   "group": "NGC 598/F606W/chip1",
+   "tag": "brut",
+   "n": 0,
+   "n_intshift": 3
+  },
+  {
+   "group": "NGC 598/F814W/chip1",
+   "tag": "brut",
+   "n": 0,
+   "n_intshift": 0
+  },
+  {
+   "group": "NGC 1569/F606W/chip1",
+   "tag": "brut",
+   "n": 0,
+   "n_intshift": 1
+  },
+  {
+   "group": "IC 10/F814W/chip1",
+   "tag": "brut",
+   "n": 4,
+   "n_intshift": 3,
+   "rho_med": 0.0681772722483032,
+   "rho_min": 0.042643299621115904,
+   "rho_max": 0.09458892255343518,
+   "naive_med": 0.6638741945545695,
+   "vtest_med": 0.8582398926991074,
+   "frac_bg": 0.0972256130642361
+  },
+  {
+   "group": "NGC 3031/F606W/chip1",
+   "tag": "brut",
+   "n": 0,
+   "n_intshift": 0
+  }
+ ],
+ "nettoye": [
+  {
+   "group": "NGC 4258/F814W/chip1",
+   "tag": "nettoye",
+   "n": 0,
+   "n_intshift": 0
+  },
+  {
+   "group": "NGC 598/F606W/chip1",
+   "tag": "nettoye",
+   "n": 4,
+   "n_intshift": 3,
+   "rho_med": 0.638946378717441,
+   "rho_min": 0.4195086980203946,
+   "rho_max": 0.7428661906194827,
+   "naive_med": 0.810956389756102,
+   "vtest_med": 0.5047189624960167,
+   "frac_bg": 0.1342400444878472
+  },
+  {
+   "group": "NGC 598/F814W/chip1",
+   "tag": "nettoye",
+   "n": 0,
+   "n_intshift": 0
+  },
+  {
+   "group": "NGC 1569/F606W/chip1",
+   "tag": "nettoye",
+   "n": 0,
+   "n_intshift": 1
+  },
+  {
+   "group": "IC 10/F814W/chip1",
+   "tag": "nettoye",
+   "n": 4,
+   "n_intshift": 3,
+   "rho_med": 0.06352926235588179,
+   "rho_min": 0.04778007442928561,
+   "rho_max": 0.08484399338962775,
+   "naive_med": 0.6428045593365745,
+   "vtest_med": 0.8896619078790773,
+   "frac_bg": 0.2156592475043403
+  },
+  {
+   "group": "NGC 3031/F606W/chip1",
+   "tag": "nettoye",
+   "n": 0,
+   "n_intshift": 0
+  }
+ ]
+}

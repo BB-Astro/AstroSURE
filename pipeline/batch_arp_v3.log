@@ -1,0 +1,25 @@
+Arp070: hst_15446_0w_acs_wfc_f606w_jdrz0wlh_flc.fits + hst_15446_0w_acs_wfc_f606w_jdrz0wli_flc.fits -> grid hst_15446_0w_acs_wfc_f606w_jdrz0w_drc.fits
+  ecrit: Arp070_dsf_blend075_drizzled.fits
+Arp130: hst_15446_20_acs_wfc_f606w_jdrz20o7_flc.fits + hst_15446_20_acs_wfc_f606w_jdrz20o8_flc.fits -> grid hst_15446_20_acs_wfc_f606w_jdrz20_drc.fits
+  ecrit: Arp130_dsf_blend075_drizzled.fits
+Arp141: hst_15446_23_acs_wfc_f606w_jdrz23j3_flc.fits + hst_15446_23_acs_wfc_f606w_jdrz23j4_flc.fits -> grid hst_15446_23_acs_wfc_f606w_jdrz23_drc.fits
+  ecrit: Arp141_dsf_blend075_drizzled.fits
+Arp164: hst_15446_33_acs_wfc_f606w_jdrz33kc_flc.fits + hst_15446_33_acs_wfc_f606w_jdrz33kd_flc.fits -> grid hst_15446_33_acs_wfc_f606w_jdrz33_drc.fits
+  ecrit: Arp164_dsf_blend075_drizzled.fits
+Arp176: hst_15446_38_acs_wfc_f606w_jdrz38iq_flc.fits + hst_15446_38_acs_wfc_f606w_jdrz38is_flc.fits -> grid hst_15446_38_acs_wfc_f606w_jdrz38_drc.fits
+  ecrit: Arp176_dsf_blend075_drizzled.fits
+Arp180: hst_15446_40_acs_wfc_f606w_jdrz40nj_flc.fits + hst_15446_40_acs_wfc_f606w_jdrz40nk_flc.fits -> grid hst_15446_40_acs_wfc_f606w_jdrz40_drc.fits
+  ecrit: Arp180_dsf_blend075_drizzled.fits
+Arp190: hst_15446_43_acs_wfc_f606w_jdrz43d9_flc.fits + hst_15446_43_acs_wfc_f606w_jdrz43db_flc.fits -> grid hst_15446_43_acs_wfc_f606w_jdrz43_drc.fits
+  ecrit: Arp190_dsf_blend075_drizzled.fits
+Arp197: hst_15446_46_acs_wfc_f606w_jdrz46rh_flc.fits + hst_15446_46_acs_wfc_f606w_jdrz46ri_flc.fits -> grid hst_15446_46_acs_wfc_f606w_jdrz46_drc.fits
+  ecrit: Arp197_dsf_blend075_drizzled.fits
+Arp219: hst_15446_59_acs_wfc_f606w_jdrz59lx_flc.fits + hst_15446_59_acs_wfc_f606w_jdrz59m2_flc.fits -> grid hst_15446_59_acs_wfc_f606w_jdrz59_drc.fits
+  ecrit: Arp219_dsf_blend075_drizzled.fits
+Arp221: hst_15446_61_acs_wfc_f606w_jdrz61z4_flc.fits + hst_15446_61_acs_wfc_f606w_jdrz61z5_flc.fits -> grid hst_15446_61_acs_wfc_f606w_jdrz61_drc.fits
+  ecrit: Arp221_dsf_blend075_drizzled.fits
+Arp280: hst_15446_85_acs_wfc_f606w_jdrz85hb_flc.fits + hst_15446_85_acs_wfc_f606w_jdrz85hd_flc.fits -> grid hst_15446_85_acs_wfc_f606w_jdrz85_drc.fits
+  ecrit: Arp280_dsf_blend075_drizzled.fits
+Arp303: hst_15446_0a_acs_wfc_f606w_jdrz0aom_flc.fits + hst_15446_0a_acs_wfc_f606w_jdrz0aon_flc.fits -> grid hst_15446_0a_acs_wfc_f606w_jdrz0a_drc.fits
+  ecrit: Arp303_dsf_blend075_drizzled.fits
+batch done: 12/12 targets

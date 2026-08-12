@@ -1,0 +1,22 @@
+
+================ donnees brut ================
+groupe                   quadruplets npatch  %fond  rho_bruit          [min,max]  corr naive  test var
+NGC 4258/F814W/chip1               0  aucun quadruplet a decalage entier exploitable
+NGC 598/F606W/chip1                3  aucun quadruplet a decalage entier exploitable
+NGC 598/F814W/chip1                0  aucun quadruplet a decalage entier exploitable
+NGC 1569/F606W/chip1               1  aucun quadruplet a decalage entier exploitable
+IC 10/F814W/chip1                  1      4    10%     0.0682 [+0.0426,+0.0946]      0.6639     0.858
+NGC 3031/F606W/chip1               0  aucun quadruplet a decalage entier exploitable
+
+================ donnees nettoye ================
+groupe                   quadruplets npatch  %fond  rho_bruit          [min,max]  corr naive  test var
+NGC 4258/F814W/chip1               0  aucun quadruplet a decalage entier exploitable
+NGC 598/F606W/chip1                1      4    13%     0.6389 [+0.4195,+0.7429]      0.8110     0.505
+NGC 598/F814W/chip1                0  aucun quadruplet a decalage entier exploitable
+NGC 1569/F606W/chip1               1  aucun quadruplet a decalage entier exploitable
+IC 10/F814W/chip1                  1      4    22%     0.0635 [+0.0478,+0.0848]      0.6428     0.890
+NGC 3031/F606W/chip1               0  aucun quadruplet a decalage entier exploitable
+
+rho_bruit : 0 = bruits independants (hypothese N2N respectee).
+test var  : Var(A-B)/[Var(A-C)+Var(B-C)-Var(A-B)] -> 1 si independants, <<1 revelerait un doublon.
+corr naive: correlation brute de A et B sur le fond = signal commun, sans rapport avec l'hypothese N2N.

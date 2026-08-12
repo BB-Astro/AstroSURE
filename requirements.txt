@@ -1,0 +1,17 @@
+# Versions EXACTES de l'env conda "dip" validees en production le 11 aout
+# 2026 (Mac Studio M2 Max, python 3.13). La chaine v2 complete (deepCR ->
+# StripeField -> AstroSURE -> drizzle -> blend) et le QC Gaia ont tourne
+# avec ces versions. Mettre a jour ce fichier a chaque evolution VALIDEE
+# de l'env, pas avant (lecon codexreview: env non verrouille = torch a
+# derive jusqu'a 2.13 sans trace).
+torch==2.13.0
+numpy==2.5.1
+scipy==1.18.0
+astropy==8.0.1
+drizzle==2.2.0
+deepCR==0.3.1
+astroquery==0.4.11
+astroscrappy==1.3.0
+scikit-image==0.26.0
+matplotlib==3.11.1
+xisf==0.9.7

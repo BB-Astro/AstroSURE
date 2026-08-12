@@ -1,0 +1,29 @@
+# Bulk data (30+ GB): re-downloadable from MAST via download_mast/ scripts
+training_data/**
+!training_data/*.json
+training_data_crclean/**
+!training_data_crclean/*.json
+
+# Broken venv, third-party reference code, v1 archives, scratch results
+venv/
+astrosure_repo/
+astrosure_fullimage/
+archive/
+data/
+
+# FITS artifacts everywhere (chips, denoised outputs, patches)
+*.fits
+
+# Models: only the production checkpoints are tracked
+*.pth
+!training/checkpoints_run5/best.pth
+!training/checkpoints_run8/best.pth
+!training/checkpoints_run9/best_qc.pth
+
+__pycache__/
+.DS_Store
+
+# Internal session instructions and external review (kept local only)
+CLAUDE.md
+codexreview.md
+report_*.json

@@ -1,0 +1,25 @@
+groupe                    plateau |                  N* NON SATUREES |              N* SATUREES
+                               e- |      n   survie  perdues abimees |      n   survie abimees
+NGC 4258/F814W/chip1        37514 |    149   100.1%     2.0%   20.1% |      5   -17.8%   80.0%
+NGC 4258/F814W/chip2        36075 |    138    97.6%     2.9%   49.3% |      3    -9.4%   66.7%
+NGC 598/F606W/chip1         88461 |  11040   100.3%     0.2%    1.9% |    121    84.9%   36.4%
+NGC 598/F814W/chip1         87388 |  12086   100.3%     0.4%    1.9% |    100    89.1%   37.0%
+NGC 1569/F606W/chip1        88735 |   6837   100.1%     0.0%   12.0% |    229    29.6%   59.4%
+NGC 1569/F606W/chip2        91673 |    154   100.0%    12.3%   27.9% |     32    61.9%   46.9%
+IC 10/F814W/chip1           91745 |   6704   100.3%     0.6%    3.3% |    110    84.7%   43.6%
+IC 10/F814W/chip2          100922 |   6657   100.3%     0.8%    4.8% |    143    53.0%   60.1%
+NGC 3031/F606W/chip1        85186 |    809    95.4%    23.2%   37.7% |      3    91.5%   33.3%
+NGC 3031/F606W/chip2        88061 |    685    88.1%    32.0%   45.1% |     14     9.8%   85.7%
+
+Etoiles NON SATUREES par etage (n / survie / % abimees)
+groupe                               30-100 sigma            100-300 sigma               >300 sigma
+NGC 4258/F814W/chip1            n=142 100% dmg21%           n=7 100% dmg0%                      n=0
+NGC 4258/F814W/chip2             n=126 72% dmg54%          n=10 100% dmg0%                      n=2
+NGC 598/F606W/chip1             n=9337 100% dmg2%        n=1516 100% dmg1%         n=187 100% dmg1%
+NGC 598/F814W/chip1             n=8670 100% dmg3%        n=2856 100% dmg0%         n=560 100% dmg0%
+NGC 1569/F606W/chip1           n=4974 100% dmg14%        n=1582 100% dmg8%         n=281 100% dmg5%
+NGC 1569/F606W/chip2             n=88 100% dmg42%         n=30 100% dmg17%          n=36 100% dmg3%
+IC 10/F814W/chip1               n=5881 100% dmg3%         n=658 100% dmg1%         n=165 100% dmg3%
+IC 10/F814W/chip2               n=5477 100% dmg5%        n=1016 100% dmg2%         n=164 100% dmg7%
+NGC 3031/F606W/chip1             n=710 92% dmg41%         n=79 100% dmg18%         n=20 100% dmg10%
+NGC 3031/F606W/chip2             n=612 83% dmg49%         n=65 100% dmg17%          n=8 100% dmg12%

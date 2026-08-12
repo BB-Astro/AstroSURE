@@ -1,0 +1,4 @@
+Arp293: hst_15446_94_acs_wfc_f606w_jdrz94dx_flc.fits + hst_15446_94_acs_wfc_f606w_jdrz94dy_flc.fits -> grid hst_15446_94_acs_wfc_f606w_jdrz94_drc.fits
+  ecrit: Arp293_dsf_blend075_drizzled.fits
+  ecrit: Arp293_raw_drizzled.fits
+batch done: 1/1 targets

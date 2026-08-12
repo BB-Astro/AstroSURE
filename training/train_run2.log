@@ -1,0 +1,10 @@
+Device: mps
+Pairs: 986 total, 788 train, 198 val
+Samples: 6304 train, 1584 val
+Model: 988,609 parameters
+  batch 1/788  loss=0.034504
+  batch 50/788  loss=0.061584
+  batch 100/788  loss=0.019384
+  batch 150/788  loss=0.017162
+  batch 200/788  loss=0.021243
+  batch 250/788  loss=0.019173

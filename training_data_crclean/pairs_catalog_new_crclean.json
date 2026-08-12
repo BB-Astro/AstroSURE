@@ -1,0 +1,298 @@
+[
+ {
+  "galaxy": "NGC 4258",
+  "filter": "F814W",
+  "ra_targ": 184.69829,
+  "dec_targ": 47.3385,
+  "n_exposures": 10,
+  "n_pairs": 45,
+  "proposals": [
+   "9810"
+  ],
+  "date_range": "2003-12-05 \u2192 2003-12-10",
+  "chip": 1,
+  "files": [
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_4258/F814W/hst_9810_01_acs_wfc_f814w_j8r001s0_chip1.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_4258/F814W/hst_9810_01_acs_wfc_f814w_j8r001sb_chip1.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_4258/F814W/hst_9810_02_acs_wfc_f814w_j8r002yl_chip1.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_4258/F814W/hst_9810_02_acs_wfc_f814w_j8r002z9_chip1.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_4258/F814W/hst_9810_03_acs_wfc_f814w_j8r003h4_chip1.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_4258/F814W/hst_9810_03_acs_wfc_f814w_j8r003ho_chip1.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_4258/F814W/hst_9810_04_acs_wfc_f814w_j8r004hf_chip1.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_4258/F814W/hst_9810_04_acs_wfc_f814w_j8r004hp_chip1.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_4258/F814W/hst_9810_05_acs_wfc_f814w_j8r005xt_chip1.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_4258/F814W/hst_9810_05_acs_wfc_f814w_j8r005yj_chip1.fits"
+  ]
+ },
+ {
+  "galaxy": "NGC 4258",
+  "filter": "F814W",
+  "ra_targ": 184.69829,
+  "dec_targ": 47.3385,
+  "n_exposures": 10,
+  "n_pairs": 45,
+  "proposals": [
+   "9810"
+  ],
+  "date_range": "2003-12-05 \u2192 2003-12-10",
+  "chip": 2,
+  "files": [
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_4258/F814W/hst_9810_01_acs_wfc_f814w_j8r001s0_chip2.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_4258/F814W/hst_9810_01_acs_wfc_f814w_j8r001sb_chip2.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_4258/F814W/hst_9810_02_acs_wfc_f814w_j8r002yl_chip2.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_4258/F814W/hst_9810_02_acs_wfc_f814w_j8r002z9_chip2.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_4258/F814W/hst_9810_03_acs_wfc_f814w_j8r003h4_chip2.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_4258/F814W/hst_9810_03_acs_wfc_f814w_j8r003ho_chip2.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_4258/F814W/hst_9810_04_acs_wfc_f814w_j8r004hf_chip2.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_4258/F814W/hst_9810_04_acs_wfc_f814w_j8r004hp_chip2.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_4258/F814W/hst_9810_05_acs_wfc_f814w_j8r005xt_chip2.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_4258/F814W/hst_9810_05_acs_wfc_f814w_j8r005yj_chip2.fits"
+  ]
+ },
+ {
+  "galaxy": "NGC 598",
+  "filter": "F606W",
+  "ra_targ": 23.41542,
+  "dec_targ": 30.48333,
+  "n_exposures": 10,
+  "n_pairs": 45,
+  "proposals": [
+   "10190"
+  ],
+  "date_range": "2004-09-08 \u2192 2004-09-09",
+  "chip": 1,
+  "files": [
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_598/F606W/hst_10190_23_acs_wfc_f606w_j90o23nm_chip1.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_598/F606W/hst_10190_23_acs_wfc_f606w_j90o23np_chip1.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_598/F606W/hst_10190_23_acs_wfc_f606w_j90o23nt_chip1.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_598/F606W/hst_10190_23_acs_wfc_f606w_j90o23nx_chip1.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_598/F606W/hst_10190_23_acs_wfc_f606w_j90o23o1_chip1.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_598/F606W/hst_10190_23_acs_wfc_f606w_j90o23o5_chip1.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_598/F606W/hst_10190_21_acs_wfc_f606w_j90o21t3_chip1.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_598/F606W/hst_10190_21_acs_wfc_f606w_j90o21t6_chip1.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_598/F606W/hst_10190_21_acs_wfc_f606w_j90o21te_chip1.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_598/F606W/hst_10190_21_acs_wfc_f606w_j90o21ti_chip1.fits"
+  ]
+ },
+ {
+  "galaxy": "NGC 598",
+  "filter": "F606W",
+  "ra_targ": 23.41542,
+  "dec_targ": 30.48333,
+  "n_exposures": 10,
+  "n_pairs": 45,
+  "proposals": [
+   "10190"
+  ],
+  "date_range": "2004-09-08 \u2192 2004-09-09",
+  "chip": 2,
+  "files": [
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_598/F606W/hst_10190_23_acs_wfc_f606w_j90o23nm_chip2.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_598/F606W/hst_10190_23_acs_wfc_f606w_j90o23np_chip2.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_598/F606W/hst_10190_23_acs_wfc_f606w_j90o23nt_chip2.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_598/F606W/hst_10190_23_acs_wfc_f606w_j90o23nx_chip2.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_598/F606W/hst_10190_23_acs_wfc_f606w_j90o23o1_chip2.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_598/F606W/hst_10190_23_acs_wfc_f606w_j90o23o5_chip2.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_598/F606W/hst_10190_21_acs_wfc_f606w_j90o21t3_chip2.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_598/F606W/hst_10190_21_acs_wfc_f606w_j90o21t6_chip2.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_598/F606W/hst_10190_21_acs_wfc_f606w_j90o21te_chip2.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_598/F606W/hst_10190_21_acs_wfc_f606w_j90o21ti_chip2.fits"
+  ]
+ },
+ {
+  "galaxy": "NGC 598",
+  "filter": "F814W",
+  "ra_targ": 23.41542,
+  "dec_targ": 30.48333,
+  "n_exposures": 10,
+  "n_pairs": 45,
+  "proposals": [
+   "10190"
+  ],
+  "date_range": "2004-09-09 \u2192 2004-09-09",
+  "chip": 1,
+  "files": [
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_598/F814W/hst_10190_24_acs_wfc_f814w_j90o24wz_chip1.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_598/F814W/hst_10190_24_acs_wfc_f814w_j90o24x2_chip1.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_598/F814W/hst_10190_24_acs_wfc_f814w_j90o24xc_chip1.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_598/F814W/hst_10190_24_acs_wfc_f814w_j90o24xg_chip1.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_598/F814W/hst_10190_24_acs_wfc_f814w_j90o24xu_chip1.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_598/F814W/hst_10190_26_acs_wfc_f814w_j90o26ux_chip1.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_598/F814W/hst_10190_26_acs_wfc_f814w_j90o26v0_chip1.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_598/F814W/hst_10190_26_acs_wfc_f814w_j90o26vb_chip1.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_598/F814W/hst_10190_26_acs_wfc_f814w_j90o26vf_chip1.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_598/F814W/hst_10190_26_acs_wfc_f814w_j90o26vt_chip1.fits"
+  ]
+ },
+ {
+  "galaxy": "NGC 598",
+  "filter": "F814W",
+  "ra_targ": 23.41542,
+  "dec_targ": 30.48333,
+  "n_exposures": 10,
+  "n_pairs": 45,
+  "proposals": [
+   "10190"
+  ],
+  "date_range": "2004-09-09 \u2192 2004-09-09",
+  "chip": 2,
+  "files": [
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_598/F814W/hst_10190_24_acs_wfc_f814w_j90o24wz_chip2.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_598/F814W/hst_10190_24_acs_wfc_f814w_j90o24x2_chip2.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_598/F814W/hst_10190_24_acs_wfc_f814w_j90o24xc_chip2.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_598/F814W/hst_10190_24_acs_wfc_f814w_j90o24xg_chip2.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_598/F814W/hst_10190_24_acs_wfc_f814w_j90o24xu_chip2.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_598/F814W/hst_10190_26_acs_wfc_f814w_j90o26ux_chip2.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_598/F814W/hst_10190_26_acs_wfc_f814w_j90o26v0_chip2.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_598/F814W/hst_10190_26_acs_wfc_f814w_j90o26vb_chip2.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_598/F814W/hst_10190_26_acs_wfc_f814w_j90o26vf_chip2.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_598/F814W/hst_10190_26_acs_wfc_f814w_j90o26vt_chip2.fits"
+  ]
+ },
+ {
+  "galaxy": "NGC 1569",
+  "filter": "F606W",
+  "ra_targ": 67.69335,
+  "dec_targ": 64.82813,
+  "n_exposures": 10,
+  "n_pairs": 45,
+  "proposals": [
+   "10885"
+  ],
+  "date_range": "2006-11-14 \u2192 2006-11-14",
+  "chip": 1,
+  "files": [
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_1569/F606W/hst_10885_02_acs_wfc_f606w_j9qw02dw_chip1.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_1569/F606W/hst_10885_02_acs_wfc_f606w_j9qw02dy_chip1.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_1569/F606W/hst_10885_02_acs_wfc_f606w_j9qw02e0_chip1.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_1569/F606W/hst_10885_02_acs_wfc_f606w_j9qw02e2_chip1.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_1569/F606W/hst_10885_02_acs_wfc_f606w_j9qw02e4_chip1.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_1569/F606W/hst_10885_02_acs_wfc_f606w_j9qw02e6_chip1.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_1569/F606W/hst_10885_02_acs_wfc_f606w_j9qw02ef_chip1.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_1569/F606W/hst_10885_02_acs_wfc_f606w_j9qw02eh_chip1.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_1569/F606W/hst_10885_02_acs_wfc_f606w_j9qw02ej_chip1.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_1569/F606W/hst_10885_02_acs_wfc_f606w_j9qw02el_chip1.fits"
+  ]
+ },
+ {
+  "galaxy": "NGC 1569",
+  "filter": "F606W",
+  "ra_targ": 67.69335,
+  "dec_targ": 64.82813,
+  "n_exposures": 10,
+  "n_pairs": 45,
+  "proposals": [
+   "10885"
+  ],
+  "date_range": "2006-11-14 \u2192 2006-11-14",
+  "chip": 2,
+  "files": [
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_1569/F606W/hst_10885_02_acs_wfc_f606w_j9qw02dw_chip2.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_1569/F606W/hst_10885_02_acs_wfc_f606w_j9qw02dy_chip2.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_1569/F606W/hst_10885_02_acs_wfc_f606w_j9qw02e0_chip2.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_1569/F606W/hst_10885_02_acs_wfc_f606w_j9qw02e2_chip2.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_1569/F606W/hst_10885_02_acs_wfc_f606w_j9qw02e4_chip2.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_1569/F606W/hst_10885_02_acs_wfc_f606w_j9qw02e6_chip2.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_1569/F606W/hst_10885_02_acs_wfc_f606w_j9qw02ef_chip2.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_1569/F606W/hst_10885_02_acs_wfc_f606w_j9qw02eh_chip2.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_1569/F606W/hst_10885_02_acs_wfc_f606w_j9qw02ej_chip2.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_1569/F606W/hst_10885_02_acs_wfc_f606w_j9qw02el_chip2.fits"
+  ]
+ },
+ {
+  "galaxy": "IC 10",
+  "filter": "F814W",
+  "ra_targ": 5.05708,
+  "dec_targ": 59.33975,
+  "n_exposures": 10,
+  "n_pairs": 45,
+  "proposals": [
+   "10242"
+  ],
+  "date_range": "2005-01-08 \u2192 2005-01-12",
+  "chip": 1,
+  "files": [
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/IC_10/F814W/hst_10242_01_acs_wfc_f814w_j93801cw_chip1.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/IC_10/F814W/hst_10242_01_acs_wfc_f814w_j93801cx_chip1.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/IC_10/F814W/hst_10242_01_acs_wfc_f814w_j93801cz_chip1.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/IC_10/F814W/hst_10242_01_acs_wfc_f814w_j93801d1_chip1.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/IC_10/F814W/hst_10242_02_acs_wfc_f814w_j93802aw_chip1.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/IC_10/F814W/hst_10242_02_acs_wfc_f814w_j93802ax_chip1.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/IC_10/F814W/hst_10242_02_acs_wfc_f814w_j93802az_chip1.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/IC_10/F814W/hst_10242_02_acs_wfc_f814w_j93802b1_chip1.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/IC_10/F814W/hst_10242_03_acs_wfc_f814w_j93803h5_chip1.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/IC_10/F814W/hst_10242_03_acs_wfc_f814w_j93803h6_chip1.fits"
+  ]
+ },
+ {
+  "galaxy": "IC 10",
+  "filter": "F814W",
+  "ra_targ": 5.05708,
+  "dec_targ": 59.33975,
+  "n_exposures": 10,
+  "n_pairs": 45,
+  "proposals": [
+   "10242"
+  ],
+  "date_range": "2005-01-08 \u2192 2005-01-12",
+  "chip": 2,
+  "files": [
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/IC_10/F814W/hst_10242_01_acs_wfc_f814w_j93801cw_chip2.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/IC_10/F814W/hst_10242_01_acs_wfc_f814w_j93801cx_chip2.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/IC_10/F814W/hst_10242_01_acs_wfc_f814w_j93801cz_chip2.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/IC_10/F814W/hst_10242_01_acs_wfc_f814w_j93801d1_chip2.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/IC_10/F814W/hst_10242_02_acs_wfc_f814w_j93802aw_chip2.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/IC_10/F814W/hst_10242_02_acs_wfc_f814w_j93802ax_chip2.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/IC_10/F814W/hst_10242_02_acs_wfc_f814w_j93802az_chip2.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/IC_10/F814W/hst_10242_02_acs_wfc_f814w_j93802b1_chip2.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/IC_10/F814W/hst_10242_03_acs_wfc_f814w_j93803h5_chip2.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/IC_10/F814W/hst_10242_03_acs_wfc_f814w_j93803h6_chip2.fits"
+  ]
+ },
+ {
+  "galaxy": "NGC 3031",
+  "filter": "F606W",
+  "ra_targ": 148.64462,
+  "dec_targ": 69.28049,
+  "n_exposures": 8,
+  "n_pairs": 28,
+  "proposals": [
+   "10915"
+  ],
+  "date_range": "2006-11-16 \u2192 2006-11-22",
+  "chip": 1,
+  "files": [
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_3031/F606W/hst_10915_60_acs_wfc_f606w_j9ra60o9_chip1.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_3031/F606W/hst_10915_61_acs_wfc_f606w_j9ra61oj_chip1.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_3031/F606W/hst_10915_58_acs_wfc_f606w_j9ra58tp_chip1.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_3031/F606W/hst_10915_62_acs_wfc_f606w_j9ra62wv_chip1.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_3031/F606W/hst_10915_63_acs_wfc_f606w_j9ra63wz_chip1.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_3031/F606W/hst_10915_65_acs_wfc_f606w_j9ra65dt_chip1.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_3031/F606W/hst_10915_66_acs_wfc_f606w_j9ra66eb_chip1.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_3031/F606W/hst_10915_64_acs_wfc_f606w_j9ra64n7_chip1.fits"
+  ]
+ },
+ {
+  "galaxy": "NGC 3031",
+  "filter": "F606W",
+  "ra_targ": 148.64462,
+  "dec_targ": 69.28049,
+  "n_exposures": 8,
+  "n_pairs": 28,
+  "proposals": [
+   "10915"
+  ],
+  "date_range": "2006-11-16 \u2192 2006-11-22",
+  "chip": 2,
+  "files": [
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_3031/F606W/hst_10915_60_acs_wfc_f606w_j9ra60o9_chip2.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_3031/F606W/hst_10915_61_acs_wfc_f606w_j9ra61oj_chip2.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_3031/F606W/hst_10915_58_acs_wfc_f606w_j9ra58tp_chip2.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_3031/F606W/hst_10915_62_acs_wfc_f606w_j9ra62wv_chip2.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_3031/F606W/hst_10915_63_acs_wfc_f606w_j9ra63wz_chip2.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_3031/F606W/hst_10915_65_acs_wfc_f606w_j9ra65dt_chip2.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_3031/F606W/hst_10915_66_acs_wfc_f606w_j9ra66eb_chip2.fits",
+   "/Volumes/MacStudio_SideCar/TheGrandDenoise/AstroSURE/training_data_crclean/NGC_3031/F606W/hst_10915_64_acs_wfc_f606w_j9ra64n7_chip2.fits"
+  ]
+ }
+]

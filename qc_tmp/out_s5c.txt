@@ -1,0 +1,28 @@
+
+================ donnees brut ================
+groupe                    quad npatch  %fond    acf1  rho tous  rho 1/3 + blancs  corr naive  test var
+NGC 4258/F814W/chip1         1     12    36%   0.016   -0.0520   -0.0546 (acf1=0.006)      0.5960     1.105
+NGC 598/F606W/chip1          4      1     5%   0.084    0.8251    0.8251 (acf1=0.084)      0.8817     0.421
+NGC 598/F814W/chip1          0  aucun patch exploitable
+NGC 1569/F606W/chip1         1     12    19%   0.009    0.1603    0.1328 (acf1=-0.014)      0.8626     0.951
+NGC 1569/F606W/chip2         4     12    15%  -0.005    0.0441    0.0518 (acf1=-0.014)      0.0629     1.295
+IC 10/F814W/chip1            4     12    10%  -0.005    0.0861    0.0859 (acf1=-0.009)      0.7236     0.871
+IC 10/F814W/chip2            5     12    10%  -0.005    0.0726    0.0610 (acf1=-0.019)      0.4169     0.872
+NGC 3031/F606W/chip1         0  aucun patch exploitable
+
+================ donnees nettoye ================
+groupe                    quad npatch  %fond    acf1  rho tous  rho 1/3 + blancs  corr naive  test var
+NGC 4258/F814W/chip1         1     12    60%   0.024   -0.0444   -0.0314 (acf1=0.015)      0.5931     1.102
+NGC 598/F606W/chip1          4     12    14%   0.094    0.6525    0.5154 (acf1=0.084)      0.8153     0.519
+NGC 598/F814W/chip1          0  aucun patch exploitable
+NGC 1569/F606W/chip1         1     12    54%   0.037    0.1945    0.1281 (acf1=0.000)      0.8490     0.973
+NGC 1569/F606W/chip2         4     12    66%   0.003    0.0419    0.0505 (acf1=-0.001)      0.0576     1.315
+IC 10/F814W/chip1            4     12    22%   0.016    0.0710    0.0771 (acf1=0.012)      0.6942     0.907
+IC 10/F814W/chip2            5     12    23%   0.007    0.0651    0.0622 (acf1=-0.007)      0.3923     0.878
+NGC 3031/F606W/chip1         0  aucun patch exploitable
+
+--- rho en fonction de la blancheur du residu (tous groupes, donnees brutes) ---
+  acf1 dans [-1.00,0.05) : n= 55  rho median=+0.0580
+  acf1 dans [0.05,0.15) : n=  3  rho median=+0.2918
+  acf1 dans [0.15,0.30) : n=  3  rho median=+0.1631
+  pente rho vs acf1 : +0.979 (extrapolation a acf1=0 : rho=+0.0688)

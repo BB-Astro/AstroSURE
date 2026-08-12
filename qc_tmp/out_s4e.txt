@@ -1,0 +1,26 @@
+chip1: 70 pixels artefact detecteur (pic >30sigma dans >=3 champs sans rapport, sur 8388608 px)
+   colonnes les plus touchees: []
+chip2: 113 pixels artefact detecteur (pic >30sigma dans >=3 champs sans rapport, sur 8388608 px)
+   colonnes les plus touchees: []
+
+groupe                   N* strict dont artefact surv* hors art. abime hors art. abime artefacts
+NGC 4258/F814W/chip1           154             2          100.1%           21.1%          100.0%
+NGC 4258/F814W/chip2           141             2           98.8%           48.9%          100.0%
+NGC 598/F606W/chip1          11161             2          100.3%            2.3%          100.0%
+NGC 1569/F606W/chip1          7066             1          100.1%           13.5%          100.0%
+NGC 1569/F606W/chip2           186             0          100.0%           31.2%            nan%
+IC 10/F814W/chip1             6814             4          100.3%            3.9%          100.0%
+IC 10/F814W/chip2             6800             6          100.3%            5.9%           83.3%
+NGC 3031/F606W/chip1           812             0           95.4%           37.7%            nan%
+NGC 3031/F606W/chip2           699             0           86.8%           45.9%            nan%
+
+groupe                                 30-100 sigma                 >100 sigma  (hors artefacts)
+NGC 4258/F814W/chip1      n=142 surv=100% abime=21%   n=10 surv=100% abime=20%
+NGC 4258/F814W/chip2       n=126 surv=72% abime=54%    n=13 surv=100% abime=0%
+NGC 598/F606W/chip1       n=9337 surv=100% abime=2%  n=1822 surv=100% abime=3%
+NGC 1569/F606W/chip1     n=4973 surv=100% abime=13% n=2092 surv=100% abime=13%
+NGC 1569/F606W/chip2       n=88 surv=100% abime=42%   n=98 surv=100% abime=21%
+IC 10/F814W/chip1         n=5881 surv=100% abime=3%   n=929 surv=100% abime=6%
+IC 10/F814W/chip2         n=5476 surv=100% abime=5%  n=1318 surv=100% abime=8%
+NGC 3031/F606W/chip1       n=710 surv=92% abime=41%  n=102 surv=100% abime=17%
+NGC 3031/F606W/chip2       n=612 surv=83% abime=49%   n=87 surv=100% abime=28%

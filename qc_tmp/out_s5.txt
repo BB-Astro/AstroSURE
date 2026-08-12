@@ -1,0 +1,19 @@
+
+================ donnees brut ================
+groupe                   npatch  %fond  rho_bruit          [min,max]  corr naive A,B  Var(A-B)/Var(A-C)
+NGC 4258/F814W/chip1          6    46%    -0.0289 [-0.0908,+0.0226]          0.7382              0.985
+NGC 598/F606W/chip1       aucun patch de fond exploitable
+NGC 1569/F606W/chip1          6    21%     1.1082 [+0.5218,+1.8387]          0.8874              0.541
+IC 10/F814W/chip1         aucun patch de fond exploitable
+NGC 3031/F606W/chip1      aucun patch de fond exploitable
+
+================ donnees nettoye ================
+groupe                   npatch  %fond  rho_bruit          [min,max]  corr naive A,B  Var(A-B)/Var(A-C)
+NGC 4258/F814W/chip1          6    74%    -0.0258 [-0.0781,+0.0188]          0.7093              1.005
+NGC 598/F606W/chip1           6    17%     0.9659 [+0.6618,+1.7275]          0.8452              0.640
+NGC 1569/F606W/chip1          6    58%     0.8704 [+0.5080,+1.6624]          0.8032              0.719
+IC 10/F814W/chip1             6    24%     0.6649 [+0.0759,+1.9240]          0.8119              0.449
+NGC 3031/F606W/chip1          6    56%     0.0018 [-0.0009,+0.0050]          0.0129              1.199
+
+Lecture : rho_bruit = correlation estimee des bruits de A et B, signal commun elimine.
+         0 = hypothese N2N respectee. Var(A-B)/Var(A-C) ~ 1 = A et B aussi independants que A et C ; ~0 revelerait un doublon.
