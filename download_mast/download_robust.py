@@ -33,6 +33,8 @@ HAP_SVM = {
     190: "hst_15446_43_acs_wfc_f606w_jdrz43",
     164: "hst_15446_33_acs_wfc_f606w_jdrz33",
     293: "hst_15446_94_acs_wfc_f606w_jdrz94",
+    245: "hst_15446_66_acs_wfc_f606w_jdrz66",
+    295: "hst_15446_96_acs_wfc_f606w_jdrz96",
 }
 
 MAX_TRIES = 40
