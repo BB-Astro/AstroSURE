@@ -21,14 +21,14 @@ background ÷24, spiral structure and photometry preserved.*
 ## Production pipeline
 
 ```mermaid
-flowchart LR
-    A["Raw MAST FLC<br/>(2 dithered exposures)"] --> B["deepCR<br/>(cosmic rays, partner<br/>flux veto)"]
-    B --> C["StripeField<br/>(row bias, detector<br/>frame, theta = 0)"]
-    C --> D["AstroSURE 2-channel<br/>run 9 ep. 20 (best_qc.pth)<br/>channel 2 = partner exposure<br/>resampled (WCS)"]
-    D --> E["Chip-gap band:<br/>filled by the 1-channel<br/>model (run 5)"]
-    E --> F["Background re-anchor<br/>(difference image)"]
-    F --> G["STScI drizzle<br/>DQ weights, per-exposure sky,<br/>reference DRC grid"]
-    G --> H["Final blend<br/>0.75 denoised + 0.25 original<br/>(noise texture)"]
+flowchart TD
+    A["Raw MAST FLC (2 dithered exposures)"] --> B["deepCR: cosmic rays, partner flux veto"]
+    B --> C["StripeField: row bias, detector frame, theta = 0"]
+    C --> D["AstroSURE 2-channel, run 9 ep. 20 (best_qc.pth)<br/>channel 2 = partner exposure resampled (WCS)"]
+    D --> E["Chip-gap band filled by the 1-channel model (run 5)"]
+    E --> F["Background re-anchor (difference image)"]
+    F --> G["STScI drizzle: DQ weights, per-exposure sky, DRC grid"]
+    G --> H["Final blend: 0.75 denoised + 0.25 original"]
 ```
 
 Run the whole chain with `pipeline/batch_arp.py`, or step by step
